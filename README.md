@@ -1,5 +1,6 @@
 SYST
 ====
+Should You Skim Today
 
 1. Execute the ruby file in terminal.
 
